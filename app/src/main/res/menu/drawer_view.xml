@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_pregnant_woman_black_24dp"
+            android:title="@string/History" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_pregnant_woman_black_24dp"
+            android:title="@string/side_attraction" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_pregnant_woman_black_24dp"
+            android:title="@string/population" />
+
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_pregnant_woman_black_24dp"
+            android:title="@string/occupation" />
+    </group>
+</menu>

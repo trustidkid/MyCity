@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">MyCity</string>
+    <string name="History">Lagos State</string>
+    <string name="side_attraction">Oyo State</string>
+    <string name="population">Ogun State:</string>
+    <string name="occupation">Delta State</string>
+
+    <!--Tab layout value-->
+    <string name="landmark">LANDMARK</string>
+    <string name="history">HISTORY</string>
+    <string name="area">SQUARE</string>
+
+    <!--Lagos-->
+    <string name="lagosatnight">LAGOS@NIGHT</string>
+    <string name="lagoscity">LAGOS CITY HALL</string>
+    <string name="lasu">LASU</string>
+    <string name="transport_system">COMMUTER</string>
+    <string name="tourist">TOURIST</string>
+    <string name="tejuosho">MODERN MKT</string>
+    <string name="streetlife">STREET LIFE</string>
+    <string name="workhour">WORK HOUR</string>
+    <string name="nationatheatre">ART</string>
+    <string name="ethnic">AWORI</string>
+
+    <!--Oyo-->
+    <string name="oyoculture">Cultural Display</string>
+    <string name="agric">Occupation</string>
+    <string name="lake">Lake Suspended</string>
+    <string name="odua">Odua Investment</string>
+    <string name="education">Uni.of Ibadan</string>
+    <string name="mokola">Mokola</string>
+
+    <!--ogun-->
+    <string name="buspark">Bus Terminal</string>
+    <string name="govt">Govt. House</string>
+    <string name="olumo">Olumo Rock</string>
+    <string name="river">Ogun River</string>
+    <string name="university">University</string>
+    <string name="areaview">Area View</string>
+
+
+    <!--delta-->
+    <string name="delta_city">Delta City</string>
+    <string name="assembly">Legislature</string>
+    <string name="heritage">Tourism</string>
+    <string name="tophotel">Top Hotel</string>
+    <string name="asaba">Asaba</string>
+    <string name="polytechnic">Polytechnic</string>
+
+
+    <!--Name of the city-->
+    <string name="lagos">LAGOS</string>
+    <string name="oyo">OYO</string>
+    <string name="ogun">OGUN</string>
+    <string name="osun">OSUN</string>
+    <string name="ondo">ONDO</string>
+    <string name="ekiti">EKITI</string>
+    <string name="edo">EDO</string>
+    <string name="delta">DELTA</string>
+    <string name="akwaibom">AKWA-IBOM</string>
+    <string name="abuja">ABUJA</string>
+    <string name="kaduna">KADUNA</string>
+    <string name="kwara">KWARA</string>
+    <string name="kano">KANO</string>
+    <string name="rivers">RIVERS</string>
+    <string name="enugu">ENUGU</string>
+
+    <!--density of the city-->
+    <string name="lagos_d">15m</string>
+    <string name="oyo_d">20m</string>
+    <string name="ogun_d">10m</string>
+    <string name="osun_d">5m</string>
+    <string name="ondo_d">4.5m</string>
+    <string name="ekiti_d">6m</string>
+    <string name="edo_d">7m</string>
+    <string name="delta_d">5m</string>
+    <string name="akwaibom_d">8m</string>
+    <string name="abuja_d">4.5m</string>
+    <string name="kaduna_d">30m</string>
+    <string name="kwara_d">5m</string>
+    <string name="kano_d">40m</string>
+    <string name="rivers_d">10m</string>
+    <string name="enugu_d">10m</string>
+
+
+    <!--date the state created-->
+    <string name="lagos_year">1890</string>
+    <string name="oyo_year">1705</string>
+    <string name="ogun_year">1905</string>
+    <string name="osun_year">1923</string>
+    <string name="ondo_year">1914</string>
+    <string name="ekiti_year">1935</string>
+    <string name="edo_year">1923</string>
+    <string name="delta_year">1942</string>
+    <string name="akwaibom_year">1906</string>
+    <string name="abuja_year">1945</string>
+    <string name="kaduna_year">1503</string>
+    <string name="kwara_year">1915</string>
+    <string name="kano_year">1925</string>
+    <string name="rivers_year">1950</string>
+    <string name="enugu_year">1930</string>
+
+    <string name="name">Name: </string>
+    <string name="year">Year: </string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lagoscity_history">The Lagos City Hall, established in 1900, is the secretariat of the oldest local government in Nigeria.[1] It is located within the Brazilian quarters, right in the center of the Lagos business district. It is also adjacent to King\'s College, Lagos, St. Nicholas Hospital, Lagos and Cathedral of the Holy Cross, Lagos. [2]  The City Hall used to be the local government headquarters with other area offices serving the entire local governments in colonial Lagos and after Nigeria\'s independence. The City hall was the fountain of local government administration in Nigeria and the secretariat of the Lagos Island local government, the doyen of Nigeria\'s native or grassroots administration since 1900. The hall is a historical, political and cultural landmark for metropolitan Lago</string>
+    <string name="changed">changed</string>
+</resources>
